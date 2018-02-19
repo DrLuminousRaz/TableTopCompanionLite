@@ -1,0 +1,4 @@
+TableTopCompanionLite.MainActivity, TableTopCompanionLite;md5cf4e226595927ca3729e0f9daef6cc45.MainActivity
+TableTopCompanionLite.MainActivity, TableTopCompanionLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cf4e226595927ca3729e0f9daef6cc45.MainActivity
+TableTopCompanionLite.MainActivity;md5cf4e226595927ca3729e0f9daef6cc45.MainActivity
+tabletopcompanionlite.MainActivity;md5cf4e226595927ca3729e0f9daef6cc45.MainActivity
